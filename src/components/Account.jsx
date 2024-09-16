@@ -24,7 +24,7 @@ function Account() {
                 </div>
                 <div className="flex justify-between mb-2 text-xs">
                     <span className="text-black">Bank Name:</span>
-                    <b className="text-black">Opay</b>
+                    <b className="text-black">Moniepoint</b>
                 </div>
             </div>
             <button onClick={handleButtonClick} className="mt-6 px-8 py-2 bg-[#061417] text-white font-bold text-sm rounded-md">
